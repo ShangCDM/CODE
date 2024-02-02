@@ -1,0 +1,4 @@
+Header header
+float32 SensorAngleBoom
+float32 SensorAngleArm
+float32 SensorAngleBucket

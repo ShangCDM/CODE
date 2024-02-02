@@ -1,0 +1,10 @@
+Header header
+float32 VisualAerfa_ANN
+float32 VisualBeita_ANN
+float32 VisualGama_ANN
+float32 VisualAerfa_PMMMLM
+float32 VisualBeita_PMMMLM
+float32 VisualGama_PMMMLM
+float32 VisualAerfa_ThisWork
+float32 VisualBeita_ThisWork
+float32 VisualGama_ThisWork
